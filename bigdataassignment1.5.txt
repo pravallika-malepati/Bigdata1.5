@@ -1,0 +1,19 @@
+                                                            Assignment1.5
+
+1)What is hadoop in layman's term
+A)Hadoop is a framewok which is used for storing and processing of very large files.There are two main core components of hadoop .Hadoop Distributed File System (HDFS) is used for storing the data and the map reduce is another component of hadoop used for processing the stored data.
+
+
+2)The components of Hadoop Framework are:
+A)There are two components of Hadoop framework.They are:
+
+a.Hadoop distributed  File System:The HDFS is used for stroring very large files.
+
+b.MapReduce:The MapReduce engine is used for processing the large data .
+
+
+
+3)The reasons to learn the  big data technologies are:
+
+A)1.Huge data is getting generated every day.so to maintain and process the large structured and unstructured data  we use big data technologies.
+   2.There is a great demand for big data now-a-days.The scope of employment is high.
